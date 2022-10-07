@@ -19,22 +19,22 @@ Using python 3.10.6 version.\
 All commands for MACOS.\
 Create virtual environment and activate environment.
 
-'''
+```
 python3 -m venv venv
 source venv/bin/activate
-'''
+```
 
 Install requirements.
 
-'''
+```
 pip3 install -r requirements.txt
-'''
+```
 
 migrate and Run application with sqlite3
 
-'''
+```
 python3 manage.py migrate
 python3 manage.py runserver
-'''
+```
 
 Application is running successfully on your Mac.
