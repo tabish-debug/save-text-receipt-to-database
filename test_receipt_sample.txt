@@ -1,0 +1,44 @@
+               Bakers
+            Company GbR
+        Oranienburger Straße 121
+            10117 Berlin
+
+
+
+Bill no.3-7722         11:30:51 20.04.2021
+
+------------------------------------------
+1x Cappuccino          2,70€    2,70€    A
+22x Chocolate          5,70€    125,40€  A
+2x Vanilla             4,70€    9,40€    A
+3x ButterCream          2,50€   7,50€    A
+
+                                  --------
+
+Total          145,00€
+
+Given (iZettle)                     145,00€
+
+
+------------------------------------------
+USt.%     gross      net              USt.
+A=7%      145,00€    134,85€          10,15€
+
+
+
+             Table: Counter
+          Terminal: Terminal 2
+TSE-Transaktion     1832
+TSE-Signatur-Nr.    98019
+TSE-Start           2020-04-21T09:29:38.00000Z
+TSE-Stop            2020-04-21T09:29:50.00000Z
+TSE-Seriennummer    5f2897cc074ae841330658eadd324661159f53b7ffd29220
+TSE-Zeitformat      utcTime
+TSE-Signatur        bXkPffFOcetbFokYrOqr/7EYrAc0PH6r
+TSE-Hashalgorithmus ecdsa-plain-SHA256
+TSE Status          In evaluation
+
+
+
+
+         Ust-Id: DE11111112
